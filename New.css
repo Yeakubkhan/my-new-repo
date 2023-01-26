@@ -62,6 +62,7 @@ b{
     padding: 20px 75px;
     border-radius: 11px;
 }
-img{
-    
+.img{
+    height: 550px;
+    width: 520px;
 }
